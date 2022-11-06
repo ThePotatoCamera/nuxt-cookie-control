@@ -1,5 +1,5 @@
 # ⚠️ Disclaimer ⚠️
-So, [since the original repo is a bit stalled](https://gitlab.com/broj42/nuxt-cookie-control/-/commits/master) and I needed this for a project, I created this repo in order to [address a issue that have been bugging everyone using this project](https://gitlab.com/broj42/nuxt-cookie-control/-/issues/58). Keep in mind that **THIS PACKAGE IS NOT THE ONE PUBLISHED AT NPM**, it's intended use is to be a git submodule. [I added the MIT license since this package is marked with the same license](https://gitlab.com/broj42/nuxt-cookie-control/-/issues/32).
+So, [since the original repo is a bit stalled](https://gitlab.com/broj42/nuxt-cookie-control/-/commits/master) and I needed this for a project, I created this repo in order to [address a issue that has been bugging everyone using this project](https://gitlab.com/broj42/nuxt-cookie-control/-/issues/58). Keep in mind that **THIS PACKAGE IS NOT THE ONE PUBLISHED AT NPM**, it's intended use is to be a git submodule. [I added the MIT license since this package is marked with the same license](https://gitlab.com/broj42/nuxt-cookie-control/-/issues/32).
 
 # Nuxt Cookie Control
 ![Nuxt Cookie Control](https://drive.google.com/a/broj42.com/uc?id=1FGQVyj2s0OT-gpTYxH_FuQhe6oU9iejW)
